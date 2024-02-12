@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+redis-stable
+*.ipynb
+dump.rdb
+*.db
+ressources.md

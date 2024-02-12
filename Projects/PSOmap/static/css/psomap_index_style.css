@@ -1,0 +1,53 @@
+h4 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.psomap-nav {
+    height: 10%;
+}
+
+
+.tracing-status {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.city-header {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.nested_div {
+    margin-right: 15px;
+    float: left;
+}
+
+
+.card-city {
+    margin-bottom: 40px; /* 350 */
+}
+
+
+.card-content {
+    height: 100px;
+}
+
+
+.span.badge {
+    float: left;
+    color: #007bff;
+}
+
+
+.tracing-status {
+    float: center;
+}
+
+
+.green-tea {
+    color: green;
+    margin-bottom: 15px;
+}
